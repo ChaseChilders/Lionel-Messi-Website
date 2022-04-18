@@ -94,3 +94,34 @@ ul {
 li {
   margin-left: 20px;
 }
+
+h3 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.messi-best-goals {
+  text-align: center;
+  margin-left: 200px;
+  padding-bottom: 20px;
+}
+
+.container {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FC_Barcelona_flag_UEFA_Champions_League_Final_2011.jpg/800px-FC_Barcelona_flag_UEFA_Champions_League_Final_2011.jpg");
+}
+
+.psg {
+  background-image: url("https://www.si.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTg1NTE3MjEwMzcyOTQwOTYx/messi-neymar-mbappe-psg-ucl.jpg");
+  background-size: cover;
+}
+
+.messi-goat {
+  text-align: center;
+  margin-left: 200px;
+  padding-bottom: 20px;
+}
+
+.video-caption {
+  background: #a50044;
+  padding: 20px;
+  text-align: center;
+}
