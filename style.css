@@ -1,0 +1,96 @@
+body {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #004d98;
+}
+
+nav {
+  margin-bottom: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+  text-align: center;
+}
+
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+a:link {
+  color: #a50044;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #a50044;
+}
+
+a:hover {
+  color: lawngreen;
+}
+
+a:active {
+  color: yellow;
+}
+
+.celebration {
+  margin-left: 295px;
+}
+
+.copyright {
+  color: grey;
+  margin-top: 40px;
+}
+
+a {
+  padding: 20px;
+}
+
+.messi-young-video {
+  text-align: center;
+  margin-left: 200px;
+  padding-bottom: 20px;
+}
+
+.baby-dream-team {
+  text-align: center;
+  margin-left: 200px;
+  padding-top: 20px;
+}
+
+p,
+h1,
+h2,
+h3 {
+  color: white;
+}
+
+.first-game {
+  text-align: center;
+  margin-left: 200px;
+  padding-top: 20px;
+  width: 876px;
+  height: 493px;
+}
+
+ul {
+  color: #a50044;
+  padding: 20px;
+  background-color: #edbb00;
+}
+
+li {
+  margin-left: 20px;
+}
